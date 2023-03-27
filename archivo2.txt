@@ -1,2 +1,0 @@
-mensje archivo 2 / con modificacion 
-modificacion post commit
