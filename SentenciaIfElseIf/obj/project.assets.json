@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rvillanueva\\repo\\CSharpCourse\\SentenciaIfElseIf\\SentenciaIfElseIf.csproj",
+      "projectUniqueName": "c:\\users\\rvillanueva\\miweb\\SentenciaIfElseIf\\SentenciaIfElseIf.csproj",
       "projectName": "SentenciaIfElseIf",
-      "projectPath": "C:\\Users\\rvillanueva\\repo\\CSharpCourse\\SentenciaIfElseIf\\SentenciaIfElseIf.csproj",
+      "projectPath": "c:\\users\\rvillanueva\\miweb\\SentenciaIfElseIf\\SentenciaIfElseIf.csproj",
       "packagesPath": "C:\\Users\\rvillanueva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rvillanueva\\repo\\CSharpCourse\\SentenciaIfElseIf\\obj\\",
+      "outputPath": "c:\\users\\rvillanueva\\miweb\\SentenciaIfElseIf\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rvillanueva\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
